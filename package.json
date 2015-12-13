@@ -1,0 +1,23 @@
+{
+  "name": "iqtest_adyngom",
+  "version": "1.0.0",
+  "description": "Flickr module to get then most recent photos from the Flckr API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/suniltanejaIQ/iqtest_adyngom.git"
+  },
+  "keywords": [
+    "flickr",
+    "angular"
+  ],
+  "author": "Ady Ngom <adyngom.com@gmail.com> (http://adyngom.com.com/)",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/suniltanejaIQ/iqtest_adyngom#readme",
+  "devDependencies": {
+    "gulp": "3.9.0"
+  }
+}
